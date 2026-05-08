@@ -39,7 +39,13 @@ All implementation details, experiments, and results are documented within each 
 ---
 
 ## Repository Structure
+Each folder represents a separate project:
 
+Each project focuses on applying multiple Classification models to a specific real-world problem, with a full pipeline from data preprocessing to model evaluation and insights.
+
+1. Bank Customer Churn Prediction Projects
+
+More projects will be added over time.
 
 ---
 
@@ -54,5 +60,3 @@ This repository is not just about building models, it is about understanding:
 ## Author
 
 Hazem Mohamed | AI Engineer
-
-Each folder represents a separate project:
