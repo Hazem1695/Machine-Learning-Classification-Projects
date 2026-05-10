@@ -4,8 +4,8 @@ To maintain consistency and focus on understanding each model deeply, this proje
 | Day    | Model Name                                    | Publish Date    | Status      |
 | ------ | --------------------------------------------  | --------------- | ----------- |
 | 1      | Logistic Regression Classification            | 2026-05-8       | Completed   |
-| 2      | K-Nearest Neighbors (KNN) Classification      | 2026-05-9       | Planned     |
-| 3      | Support Vector Machine (SVM) Classification   | 2026-05-10      | In Progress |
+| 2      | K-Nearest Neighbors (KNN) Classification      | 2026-05-9       | Completed   |
+| 3      | Support Vector Machine (SVM) Classification   | 2026-05-10      | Planned     |
 | 4      | Naive Bayes Classification                    | TBD             | In Progress |
 | 5      | Decision Trees Classification                 | TBD             | In Progress |
 | 6      | Random Forest Classification                  | TBD             | In Progress |
