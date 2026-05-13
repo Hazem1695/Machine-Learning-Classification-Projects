@@ -7,8 +7,8 @@ To maintain consistency and focus on understanding each model deeply, this proje
 | 2      | K-Nearest Neighbors (KNN) Classification      | 2026-05-9       | Completed   |
 | 3      | Support Vector Machine (SVM) Classification   | 2026-05-12      | Completed   |
 | 4      | Naive Bayes Classification                    | 2026-05-13      | Planned     |
-| 5      | Decision Trees Classification                 | TBD             | In Progress |
-| 6      | Random Forest Classification                  | TBD             | In Progress |
+| 5      | Decision Trees Classification                 | 2026-05-14      | In Progress |
+| 6      | Random Forest Classification                  | 2026-05-15      | In Progress |
 
 - In Progress – Currently being worked on
 - Planned – Not uploaded yet
