@@ -8,7 +8,7 @@ To maintain consistency and focus on understanding each model deeply, this proje
 | 3      | Support Vector Machine (SVM) Classification   | 2026-05-12      | Completed   |
 | 4      | Naive Bayes Classification                    | 2026-05-13      | Completed   |
 | 5      | Decision Trees Classification                 | 2026-05-14      | Completed   |
-| 6      | Random Forest Classification                  | 2026-05-15      | Planned     |
+| 6      | Random Forest Classification                  | 2026-05-15      | Completed   |
 
 - In Progress – Currently being worked on
 - Planned – Not uploaded yet
