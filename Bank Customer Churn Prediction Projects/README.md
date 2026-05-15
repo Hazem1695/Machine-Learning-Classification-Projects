@@ -1,5 +1,3 @@
----
-
 # Bank Customer Churn Prediction — Machine Learning Experiments
 
 ## Project Overview
